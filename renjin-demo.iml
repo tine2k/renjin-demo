@@ -56,7 +56,6 @@
     <orderEntry type="library" name="Maven: org.renjin:renjin-appl:0.8.2341" level="project" />
     <orderEntry type="library" name="Maven: org.renjin:renjin-gnur-runtime:0.8.2341" level="project" />
     <orderEntry type="library" name="Maven: org.renjin:methods:0.8.2341" level="project" />
-    <orderEntry type="library" name="Maven: org.renjin:datasets:0.8.2341" level="project" />
     <orderEntry type="library" name="Maven: org.renjin:utils:0.8.2341" level="project" />
     <orderEntry type="library" name="Maven: org.renjin:grDevices:0.8.2341" level="project" />
     <orderEntry type="library" name="Maven: org.renjin:graphics:0.8.2341" level="project" />
@@ -77,6 +76,14 @@
     <orderEntry type="library" name="Maven: com.github.fommil.netlib:netlib-native_system-linux-armhf:natives:1.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.fommil.netlib:netlib-native_system-win-x86_64:natives:1.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.fommil.netlib:netlib-native_system-win-i686:natives:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin.cran:compare:0.2-6-b21" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:parallel:0.8.2337" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:datasets:0.8.2337" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:splines:0.8.2337" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:tcltk:0.8.2337" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:stats4:0.8.2337" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:tools:0.8.2337" level="project" />
+    <orderEntry type="library" name="Maven: org.renjin:grid:0.8.2337" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:1.5.2.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:1.5.2.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:1.5.2.RELEASE" level="project" />
